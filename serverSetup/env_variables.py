@@ -3,12 +3,12 @@ grammar_api_key = 'HYFnGjGTk90pTs22'
 
 # Firebase Auth Key
 firebase_auth =  {
-  'apiKey': "AIzaSyDsN_5V4IswGcnlPkKx0QQqdKcVostNiwE",
-  'authDomain': "subjective-67270.firebaseapp.com",
-  'projectId': "subjective-67270",
-  'storageBucket': "subjective-67270.appspot.com",
-  'databaseURL' : "https://subjective-67270-default-rtdb.firebaseio.com/",
-  'messagingSenderId': "677172609566",
-  'appId': "1:677172609566:web:ab30448d73ed0d1163240f"
+  'apiKey': "AIzaSyCQ18UTQn8Z3AsJlPHoq6tmCXbf8IQpj2o",
+  'authDomain': "subjective-answer-evaluator.firebaseapp.com",
+  'projectId': "subjective-answer-evaluator",
+  'storageBucket': "subjective-answer-evaluator.appspot.com",
+  'messagingSenderId': "60200906910",
+  'appId': "1:60200906910:web:859657c66695e0573bcb8f",
+  'measurementId': "G-LTWBGS9WL6",
+  'databaseURL': "https://subjective-answer-evaluator-default-rtdb.firebaseio.com"
 };
-
