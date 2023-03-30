@@ -39,7 +39,6 @@ export class CreateAssignmentPage implements OnInit {
 
   submit() {
     console.log(this.questionForm.getRawValue());
-
     this.requesHandler.createAssignment(this.questionForm.getRawValue()).subscribe(res => {
       console.log(res);
       this.navCtrl.navigateRoot('/teacher');
